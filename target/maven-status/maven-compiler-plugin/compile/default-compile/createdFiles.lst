@@ -1,0 +1,8 @@
+com\zai\weather\app\service\WeatherService.class
+com\zai\weather\app\config\WeatherConfig.class
+com\zai\weather\app\service\OpenWeatherService.class
+com\zai\weather\app\config\CacheConfig.class
+com\zai\weather\app\service\WeatherStackService.class
+com\zai\weather\app\WeatherServiceApplication.class
+com\zai\weather\app\controller\WeatherController.class
+com\zai\weather\app\model\WeatherReport.class
